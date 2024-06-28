@@ -12,6 +12,21 @@ a {
   text-decoration: none;
 }
 
+.case-study-button {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #007BFF;
+  color: white;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.button-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
 /* Navbar Styles */
 .navigation {
   background-color: #3d0066;
